@@ -4,6 +4,6 @@
 
 
 [MITM]
-hostname = %APPEND% *.google.cn,*.googlevideo.com
+hostname = *.google.cn,*.googlevideo.com
 
 # Made with Love from https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever
