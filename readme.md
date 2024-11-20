@@ -155,8 +155,6 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_banlist_ad.png)
-
 ## 白名单过滤 + 广告
 
 白名单中包含了境外网站中可以访问的那些，对不确定的网站则默认代理。
@@ -166,8 +164,6 @@ INTP | Jack of all trades | I use Arch BTW
 - 包含广告过滤
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_whitelist_ad.conf>
-
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_whitelist_ad.png)
 
 
 ## 黑名单过滤
@@ -180,8 +176,6 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_banlist.png)
-
 
 ## 白名单过滤
 
@@ -193,8 +187,6 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_whitelist.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_whitelist.png)
-
 
 ## 国内外划分 + 广告
 
@@ -202,16 +194,12 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_cnip_ad.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_cnip_ad.png)
-
 
 ## 国内外划分
 
 国内外划分，对中国网站直连，外国网站代理。不包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_cnip.conf>
-
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_cnip.png)
 
 
 ## 直连去广告
@@ -222,8 +210,6 @@ INTP | Jack of all trades | I use Arch BTW
 - 包含广告过滤
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_direct_banad.conf>
-
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_direct_banad.png)
 
 
 ## 代理去广告
@@ -236,8 +222,6 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_proxy_banad.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_proxy_banad.png)
-
 
 ## 回国规则
 
@@ -248,8 +232,6 @@ INTP | Jack of all trades | I use Arch BTW
 - 不包含广告过滤
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_backcn.conf>
-
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_backcn.png)
 
 
 ## 回国规则 + 广告
@@ -262,8 +244,6 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_backcn_ad.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_backcn_ad.png)
-
 
 ## 仅去广告规则
 
@@ -272,8 +252,6 @@ INTP | Jack of all trades | I use Arch BTW
 - 仅包含去广告规则，不包含代理/直连规则。无任何其他配置。
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf>
-
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_ad_only.png)
 
 
 ----------------------------------------
@@ -290,8 +268,6 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy.conf>
 
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/lazy.png)
-
 
 ## 懒人配置-含策略组
 
@@ -304,8 +280,6 @@ INTP | Jack of all trades | I use Arch BTW
 - 通过「代理分组」灵活调整流媒体分流策略
 
 规则地址：<https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy_group.conf>
-
-![二维码](https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/lazy_group.png)
 
 
 ## 鸣谢：
