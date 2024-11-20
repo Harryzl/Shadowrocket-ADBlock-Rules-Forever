@@ -297,7 +297,3 @@ INTP | Jack of all trades | I use Arch BTW
 [Peter Lowe 广告和隐私跟踪域名](https://pgl.yoyo.org/)   
 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)  
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Johnshall/Shadowrocket-ADBlock-Rules-Forever.svg)](https://starchart.cc/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
-
