@@ -18,4 +18,4 @@ tar -xzvf sing-box.tar.gz
 mv ./sing-box-${VERSION}-linux-amd64/sing-box .
 chmod +x sing-box
 
-./sing-box rule-set compile --output ../figure/proxy_list.srs ../proxy_list.json
+./sing-box rule-set compile --output ../figure/proxy_list.srs ../figureproxy_list.json
