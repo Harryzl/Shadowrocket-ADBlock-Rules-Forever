@@ -53,7 +53,7 @@ def parse_file(file_content):
     return rules_json
 
 def save_json_to_file(json_data, filename):
-    with open('../figure'+filename, 'w', encoding='utf-8') as f:
+    with open('../'+filename, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
 def main():
@@ -67,6 +67,18 @@ def main():
     
     # Save the parsed JSON to a file
     save_json_to_file(parsed_json, 'proxy_list.json')
+
+    url2 = "https://harryzl.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf"
+    
+    # Download the file content
+    file_content2 = download_file(url2)
+    
+    # Parse the file content
+    parsed_json2 = parse_file(file_content2)
+    
+    # Save the parsed JSON to a file
+    save_json_to_file(parsed_json2, 'reject_list.json')
+    
     print(f"JSON data has been saved to proxy_list.json")
 
 if __name__ == "__main__":
