@@ -4,13 +4,7 @@ on:
   schedule:
     # 每日8时开始
     - cron:  '0 23 * * *'
-  
-  push:
-    branches:
-      - build
-    paths-ignore: 
-      - '**.md'
-      - 'LICENSE'
+
 
   workflow_dispatch:
   
