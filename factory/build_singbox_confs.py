@@ -9,7 +9,7 @@ def download_file(url):
 def parse_file(file_content):
     # Initialize the JSON structure
     rules_json = {
-        "version": 3,
+        "version": 2,
         "rules": [
             {
                 "domain": [],
