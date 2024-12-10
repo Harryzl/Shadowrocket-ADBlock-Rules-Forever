@@ -17,12 +17,6 @@ def parse_file(file_content):
                 "domain_regex": [],
                 "ip_cidr": [],
                 "invert": False
-            },
-            {
-              "type": "logical",
-              "mode": "and",
-              "rules": [],
-              "invert": False
             }
         ]
     }
