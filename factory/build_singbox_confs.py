@@ -22,7 +22,7 @@ def parse_file(file_content):
               "type": "logical",
               "mode": "and",
               "rules": [],
-              "invert": false
+              "invert": False
             }
         ]
     }
